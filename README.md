@@ -1,1 +1,3 @@
-# Sonar_Rock_Mine_ML
+# Project: Sonar-Based Rock and Mine Detection
+
+Developed a Machine Learning model to classify objects as rocks or mines using sonar signals. Implemented the project in Python with Pandas, NumPy, and scikit-learn for data preprocessing, feature extraction, and model training. The dataset consists of sonar wave reflection data, and the model predicts whether an object is a rock (non-metallic) or a mine (metallic) based on its signal properties. This project demonstrates expertise in data analysis, classification algorithms, and predictive modeling for real-world applications in underwater detection and defense.
